@@ -3,7 +3,6 @@ import React from 'react';
 import Hero from './components/Hero';
 import Countdown from './components/Countdown';
 import EventDetails from './components/EventDetails';
-import Gallery from './components/Gallery';
 import Footer from './components/Footer';
 
 const App: React.FC = () => {
@@ -13,7 +12,6 @@ const App: React.FC = () => {
         <Hero />
         <Countdown />
         <EventDetails />
-        <Gallery />
         <Footer />
       </main>
     </div>
