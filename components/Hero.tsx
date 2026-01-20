@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero: React.FC = () => {
   return (
-    <section className="relative flex flex-col items-center justify-center text-center min-h-screen py-20 overflow-hidden">
+    <section className="relative flex flex-col items-center justify-center text-center min-h-screen py-10 overflow-hidden">
       <div className="z-10 bg-white/50 backdrop-blur-sm p-8 rounded-lg shadow-lg">
         <p className="text-lg md:text-xl tracking-widest uppercase text-[#647a62]">
           You are invited to the wedding of

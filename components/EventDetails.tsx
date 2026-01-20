@@ -6,7 +6,7 @@ const EventDetails: React.FC = () => {
   const mapLinkUrl = "https://maps.app.goo.gl/SADfweVLbmb3qdNu9";
 
   return (
-    <section className="py-16 sm:py-24 text-center bg-white/50 rounded-lg shadow-xl my-12">
+    <section className="py-12 sm:py-16 text-center bg-white/50 rounded-lg shadow-xl my-8">
       <h2 className="font-display text-5xl sm:text-6xl text-[#647a62] mb-8">Event Details</h2>
       <div className="max-w-2xl mx-auto px-4">
         <div className="mb-8">
